@@ -1,1 +1,10 @@
-The notebooks used to teach statistics for neuroimaging in the CBU's COGNESTIC summer school. Matlab and Python versions here; R version hopefully to be added soon.
+These notebooks aim to explain the main statistical concepts used in neuroimaging.
+
+Matlab and Python versions here; R version hopefully added soon.
+
+For both Python (Jupyter) and Matlab (LiveScript), there are three versions:
+
+1. The notebook with results (*.ipynb and *.mlx)
+2. The notebook without results (*_raw.ipnyb and *.m)
+3. HTML (non-interactive) versions with results (*.html)
+
