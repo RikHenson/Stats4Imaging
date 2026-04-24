@@ -8,3 +8,5 @@ For both Python (Jupyter) and Matlab (LiveScript), there are three versions:
 2. The notebook without results (*_raw.ipnyb and *.m)
 3. HTML (non-interactive) versions with results (*.html)
 
+For python, an environment configuration file also provided.
+
